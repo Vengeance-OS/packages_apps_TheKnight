@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Çeşitli</string>
     <string name="miscellaneous_summary">Geliştirici seçenekleri, sahtekarlık</string>
     <string name="about_title">Hakkında</string>
-    <string name="about_summary">Evolution X Hakkında</string>
+    <string name="about_summary">TheKnight X Hakkında</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Monet ayarları</string>
@@ -207,7 +207,7 @@
     <string name="status_bar_logo_position_left">Sol taraf</string>
     <string name="status_bar_logo_position_right">Sağ taraf</string>
     <string name="status_bar_logo_style_title">Logo stili</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Uzaylı</string>
@@ -462,7 +462,7 @@
     <string name="navbar_invert_layout_title">Düzeni tersine çevir</string>
     <string name="navbar_invert_layout_summary">Gezinme çubuğunun ve klavye değiştirici gibi diğer öğelerin düzenini tersine çevirir</string>
     <!-- About -->
-    <string name="about_info">Evolution X, kullanıcılara Pixel benzeri bir his sunmayı amaçlarken, ek özellikler de sunuyor</string>
+    <string name="about_info">TheKnight X, kullanıcılara Pixel benzeri bir his sunmayı amaçlarken, ek özellikler de sunuyor</string>
     <string name="about_website_title">İnternet sitesi</string>
     <string name="about_website_summary">Web sitemizi ziyaret etmek için buraya dokunun</string>
     <string name="about_twitter_summary">Twitter\'da bizi ziyaret etmek için buraya dokunun</string>

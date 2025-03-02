@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Sonstiges</string>
     <string name="miscellaneous_summary">Entwickler Einstellungen, Spoofing</string>
     <string name="about_title">Über</string>
-    <string name="about_summary">Über Evolution X</string>
+    <string name="about_summary">Über TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Monet Einstellungen</string>
@@ -157,7 +157,7 @@
     <string name="status_bar_logo_position_left">Linke Seite</string>
     <string name="status_bar_logo_position_right">Rechte Seite</string>
     <string name="status_bar_logo_style_title">Logostil</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alien</string>
@@ -398,13 +398,13 @@
     <string name="navbar_invert_layout_title">Layout invertieren</string>
     <string name="navbar_invert_layout_summary">Invertiert die Anordnung der Navigationsleiste und anderer Elemente (wie z. B. der Eingabemethodenauswahl)</string>
     <!-- About -->
-    <string name="about_info">Evolution X setzt sich, um die Benutzer das Pixel Gefühl und viele zusätzliche Funktionen für die Anwendung anzubieten</string>
+    <string name="about_info">TheKnight X setzt sich, um die Benutzer das Pixel Gefühl und viele zusätzliche Funktionen für die Anwendung anzubieten</string>
     <string name="about_website_title">Webseite</string>
     <string name="about_website_summary">Tippe hier, um unsere fantastische Website zu besuchen!</string>
     <string name="about_twitter_summary">Tippe hier, um unser Twitter zu besuchen!</string>
     <string name="about_discord_summary">Tippe hier, um unsere fantastische Discord Community zu besuchen</string>
     <string name="about_github_summary">Tippe hier, um unseren GitHub zu öffnen!</string>
-    <string name="about_contributors_title">Evolution X Team</string>
+    <string name="about_contributors_title">TheKnight X Team</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Farbauswahl</string>
     <string name="press_color_to_apply">Wähle eine der Farben, um diese anzuwenden</string>

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019-2024 The Evolution X Project
+ * Copyright (C) 2019-2024 The TheKnight X Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -10,9 +10,9 @@ import android.content.Context;
 import com.android.settings.R;
 import com.android.settings.core.BasePreferenceController;
 
-public class TopLevelEvolutionSettingsPreferenceController extends BasePreferenceController {
+public class TopLevelTheKnightSettingsPreferenceController extends BasePreferenceController {
 
-    public TopLevelEvolutionSettingsPreferenceController(Context context,
+    public TopLevelTheKnightSettingsPreferenceController(Context context,
             String preferenceKey) {
         super(context, preferenceKey);
     }

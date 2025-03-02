@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Különlegességek</string>
     <string name="miscellaneous_summary">Fejleszői lehetőségek, álcázás</string>
     <string name="about_title">Névjegy</string>
-    <string name="about_summary">Az Evolution X-ről</string>
+    <string name="about_summary">Az TheKnight X-ről</string>
     <!-- Themes -->
     <string name="themes_general_category">Általános</string>
     <string name="themes_monet_category">Monet</string>
@@ -222,7 +222,7 @@
     <string name="status_bar_logo_position_left">Bal oldalon</string>
     <string name="status_bar_logo_position_right">Jobb oldalon</string>
     <string name="status_bar_logo_style_title">A logó stílusa</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Földönkívüli</string>
@@ -554,7 +554,7 @@
     <string name="navbar_invert_layout_title">Fordított elrendezés</string>
     <string name="navbar_invert_layout_summary">Navigációs sáv és más elemek megfordítása, mint például a bevitelimód-váltó elrendezése</string>
     <!-- About -->
-    <string name="about_info">Az Evolution X célja, hogy a felhasználók számára első pillantásra Pixel-szerű érzést nyújtson Önnek, sok hozzáadott funkcióval.</string>
+    <string name="about_info">Az TheKnight X célja, hogy a felhasználók számára első pillantásra Pixel-szerű érzést nyújtson Önnek, sok hozzáadott funkcióval.</string>
     <string name="about_website_title">Honlap</string>
     <string name="about_website_summary">Nyugodtan látogassa meg weboldalunkat</string>
     <string name="about_twitter_summary">Nézze meg tweetjeinket</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Diversos</string>
     <string name="miscellaneous_summary">Opções de desenvolvedor, mascaramento</string>
     <string name="about_title">Sobre</string>
-    <string name="about_summary">Sobre Evolution X</string>
+    <string name="about_summary">Sobre TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Configurações do tema Monet</string>
@@ -157,7 +157,7 @@
     <string name="status_bar_logo_position_left">Lado esquerdo</string>
     <string name="status_bar_logo_position_right">Lado direito</string>
     <string name="status_bar_logo_style_title">Estilo do logotipo</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alienígena</string>
@@ -406,7 +406,7 @@
     <string name="about_twitter_summary">Visite o nosso Twitter</string>
     <string name="about_discord_summary">Visite o chat da nossa comunidade</string>
     <string name="about_github_summary">Confira o nosso GitHub</string>
-    <string name="about_contributors_title">Equipe Evolution X</string>
+    <string name="about_contributors_title">Equipe TheKnight X</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Seletor de cores</string>
     <string name="press_color_to_apply">Selecione a cor abaixo para aplicar</string>

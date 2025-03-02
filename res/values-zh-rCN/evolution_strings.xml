@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">杂项</string>
     <string name="miscellaneous_summary">开发者选项，欺骗</string>
     <string name="about_title">关于我们</string>
-    <string name="about_summary">关于 Evolution X</string>
+    <string name="about_summary">关于 TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">莫奈</string>
     <string name="themes_monet_title">莫奈设置</string>
@@ -509,7 +509,7 @@
     <string name="navbar_invert_layout_title">反转布局</string>
     <string name="navbar_invert_layout_summary">反转导航栏和其他项目的布局，如输入法切换器</string>
     <!-- About -->
-    <string name="about_info">Evolution X 旨在为用户提供像Pixel一样的初次感觉，提供您可以使用的额外功能</string>
+    <string name="about_info">TheKnight X 旨在为用户提供像Pixel一样的初次感觉，提供您可以使用的额外功能</string>
     <string name="about_website_title">网站</string>
     <string name="about_website_summary">点击此处以访问我们最棒的网站！</string>
     <string name="about_twitter_summary">点击这里访问我们的 Twitter！</string>

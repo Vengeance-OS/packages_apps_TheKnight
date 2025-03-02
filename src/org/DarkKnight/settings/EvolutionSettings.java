@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019-2024 The Evolution X Project
+ * Copyright (C) 2019-2024 The TheKnight X Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -22,9 +22,9 @@ import com.android.settingslib.search.SearchIndexable;
 import org.evolution.settings.utils.DeviceUtils;
 
 @SearchIndexable
-public class EvolutionSettings extends DashboardFragment {
+public class TheKnightSettings extends DashboardFragment {
 
-    private static final String TAG = "EvolutionSettings";
+    private static final String TAG = "TheKnightSettings";
 
     private static final String KEY_BUTTONS_PREF = "buttons";
 

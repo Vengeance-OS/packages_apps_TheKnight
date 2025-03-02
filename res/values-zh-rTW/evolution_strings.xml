@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Evolver -->
-    <string name="evolver_dashboard_title">Evolution X 自定義</string>
+    <string name="evolver_dashboard_title">TheKnight X 自定義</string>
     <string name="evolver_dashboard_summary">前所未有的進化</string>
     <!-- Categories -->
     <string name="themes_title">主題</string>
@@ -27,7 +27,7 @@
     <string name="miscellaneous_title">其他</string>
     <string name="miscellaneous_summary">開發者和系統偽裝選項</string>
     <string name="about_title">關於</string>
-    <string name="about_summary">關於 Evolution X</string>
+    <string name="about_summary">關於 TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Monet 設定</string>
@@ -211,7 +211,7 @@
     <string name="status_bar_logo_position_left">左側</string>
     <string name="status_bar_logo_position_right">右側</string>
     <string name="status_bar_logo_style_title">圖示樣式</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">外星人</string>
@@ -497,7 +497,7 @@
     <string name="navbar_invert_layout_title">反轉佈局</string>
     <string name="navbar_invert_layout_summary">反轉導覽列和其他項目的版面配置，例如輸入法選擇器</string>
     <!-- About -->
-    <string name="about_info">Evolution X 是一款擁有豐富自定義功能的 ROM，旨在為您提供量身訂做的 Pixel 體驗，還有許多額外的設定。我們將定期發布包含最新 Android 每月安全性更新。</string>
+    <string name="about_info">TheKnight X 是一款擁有豐富自定義功能的 ROM，旨在為您提供量身訂做的 Pixel 體驗，還有許多額外的設定。我們將定期發布包含最新 Android 每月安全性更新。</string>
     <string name="about_website_title">網站</string>
     <string name="about_website_summary">歡迎瀏覽我們的網站</string>
     <string name="about_twitter_summary">來看我們的推文</string>

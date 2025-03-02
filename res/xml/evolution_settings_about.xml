@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 
@@ -9,12 +9,12 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/about_title">
 
-    <!-- Evolution X logo -->
+    <!-- TheKnight X logo -->
     <com.android.settingslib.widget.LayoutPreference
         android:key="evolution_logo"
         android:layout="@layout/evolution_logo"
         android:clickable="false"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.EvolutionXLogoPreferenceController"/>
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.TheKnightXLogoPreferenceController"/>
 
     <!-- Info -->
     <com.android.settingslib.widget.TopIntroPreference
@@ -47,7 +47,7 @@
         android:summary="@string/about_twitter_summary">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://twitter.com/EvolutionXROM" />
+            android:data="https://twitter.com/TheKnightXROM" />
         </Preference>
 
     <!-- Github -->
@@ -57,7 +57,7 @@
         android:summary="@string/about_github_summary">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/Evolution-X" />
+            android:data="https://github.com/TheKnight-X" />
     </Preference>
 
     <PreferenceCategory

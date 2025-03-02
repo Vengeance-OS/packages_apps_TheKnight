@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Різне</string>
     <string name="miscellaneous_summary">Параметри розробника, спуфінг</string>
     <string name="about_title">Про застосунок</string>
-    <string name="about_summary">Про Evolution X</string>
+    <string name="about_summary">Про TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">Функція \"Monet\"</string>
     <string name="themes_monet_title">Налаштування \"Monet\"</string>
@@ -207,7 +207,7 @@
     <string name="status_bar_logo_position_left">Ліва сторона</string>
     <string name="status_bar_logo_position_right">Права сторона</string>
     <string name="status_bar_logo_style_title">Стиль логотипу</string>
-    <string name="status_bar_logo_style_evolution">Логотип Evolution X</string>
+    <string name="status_bar_logo_style_evolution">Логотип TheKnight X</string>
     <string name="status_bar_logo_style_android">Андроїд</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Інопланетянин</string>

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2019-2024 The Evolution X Project
+ * Copyright (C) 2019-2024 The TheKnight X Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -149,7 +149,7 @@ public class Spoofing extends SettingsPreferenceFragment implements
         });
 
         mUpdateJsonButton.setOnPreferenceClickListener(preference -> {
-            updatePropertiesFromUrl("https://raw.githubusercontent.com/Evolution-X/.github/refs/heads/main/profile/pif.json");
+            updatePropertiesFromUrl("https://raw.githubusercontent.com/TheKnight-X/.github/refs/heads/main/profile/pif.json");
             return true;
         });
 

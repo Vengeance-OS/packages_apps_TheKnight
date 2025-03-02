@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 TheKnight X
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Varie</string>
     <string name="miscellaneous_summary">Opzioni sviluppatore, falsificazione</string>
     <string name="about_title">Informazioni</string>
-    <string name="about_summary">Informazioni su Evolution X</string>
+    <string name="about_summary">Informazioni su TheKnight X</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Impostazioni Monet</string>
@@ -207,7 +207,7 @@
     <string name="status_bar_logo_position_left">Lato sinistro</string>
     <string name="status_bar_logo_position_right">Lato destro</string>
     <string name="status_bar_logo_style_title">Stile del logo</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_evolution">TheKnight X</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alieno</string>
@@ -462,7 +462,7 @@
     <string name="navbar_invert_layout_title">Inverti disposizione</string>
     <string name="navbar_invert_layout_summary">Inverti la disposizione della barra di navigazione e altri elementi, come il selettore di immissione</string>
     <!-- About -->
-    <string name="about_info">Evolution X mira a fornire agli utenti una sensazione simile a Pixel a prima vista, con funzionalità aggiuntive a vostra disposizione</string>
+    <string name="about_info">TheKnight X mira a fornire agli utenti una sensazione simile a Pixel a prima vista, con funzionalità aggiuntive a vostra disposizione</string>
     <string name="about_website_title">Sito web</string>
     <string name="about_website_summary">Sentiti libero di passare dal nostro sito web</string>
     <string name="about_twitter_summary">Vieni a vedere i nostri Tweet</string>
